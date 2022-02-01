@@ -19,7 +19,7 @@ function Sidebar() {
 
 				<>
 					<Avatar
-						//   src={session?.user?.image}
+						src={user?.image}
 						className="!h-14 !w-14 !border-2 !absolute !top-4 !cursor-pointer "
 					/>
 				</>
